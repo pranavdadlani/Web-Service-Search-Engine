@@ -1,0 +1,11 @@
+http://v1.fraudlabs.com/browserobjectwebservice.asmx?wsdl
+Browser
+Object
+Request
+Browser
+Object
+Response
+Browser
+Object
+Browser
+Object

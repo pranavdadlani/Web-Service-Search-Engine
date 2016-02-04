@@ -1,0 +1,17 @@
+http://globplot.embl.de/webservice/globplot.wsdl
+run
+glob
+plotter
+request
+msg
+run
+glob
+plotter
+response
+msg
+run
+glob
+plotter
+run
+glob
+plotter

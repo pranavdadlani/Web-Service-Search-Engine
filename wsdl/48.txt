@@ -1,0 +1,7 @@
+http://www.nearby.org.uk/api/convert-soap.php?wsdl
+convert
+request
+convert
+response
+convert
+convert

@@ -1,0 +1,14 @@
+http://www.thomas-bayer.com/axis2/services/BLZService?wsdl
+get
+Bank
+get
+Bank
+Response
+get
+Bank
+get
+Bank
+get
+Bank
+get
+Bank

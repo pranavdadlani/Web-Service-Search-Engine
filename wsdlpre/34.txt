@@ -1,0 +1,1 @@
+http://services.msdn.microsoft.com/ContentServices/ContentService.asmx?wsdl

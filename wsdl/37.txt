@@ -1,0 +1,15 @@
+http://v1.fraudlabs.com/ip2currencywebservice.asmx?wsdl
+i
+p
+currency
+request
+i
+p
+currency
+response
+i
+p
+currency
+i
+p
+currency

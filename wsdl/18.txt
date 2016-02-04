@@ -1,0 +1,15 @@
+http://v1.fraudlabs.com/mailboxvalidatorwebservice.asmx?wsdl
+mail
+box
+validator
+request
+mail
+box
+validator
+response
+mail
+box
+validator
+mail
+box
+validator

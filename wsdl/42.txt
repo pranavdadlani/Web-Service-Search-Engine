@@ -1,0 +1,15 @@
+http://v1.fraudlabs.com/ip2locationwebservice.asmx?wsdl
+i
+p
+location
+request
+i
+p
+location
+response
+i
+p
+location
+i
+p
+location

@@ -1,0 +1,8 @@
+http://www.stgregorioschurchdc.org/wsdl/calendar.wsdl
+easter
+date
+easter
+date
+response
+easterdate
+easterdate

@@ -1,0 +1,7 @@
+http://api.opencalais.com/enlighten/?wsdl
+Enlighten
+Request
+Enlighten
+Response
+Enlighten
+Enlighten

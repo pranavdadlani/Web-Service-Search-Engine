@@ -1,0 +1,8 @@
+http://www.stgregorioschurchdc.org/wsdl/Bible.wsdl
+Bible
+Verses
+Bible
+Verses
+Response
+readbible
+readbible

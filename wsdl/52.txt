@@ -1,0 +1,15 @@
+http://webservices.eurotaxglass.com/wsdl/valuation.wsdl
+version
+message
+version
+message
+response
+version
+valuation
+message
+valuation
+message
+response
+valuation
+version
+valuation

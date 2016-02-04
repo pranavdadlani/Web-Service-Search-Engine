@@ -1,0 +1,17 @@
+https://api.flightstats.com/flex/ratings/soap/v1/ratingsservice?wsdl
+flight
+flight
+response
+p
+i
+exception
+flight
+route
+route
+response
+p
+i
+exception
+route
+flight
+route
